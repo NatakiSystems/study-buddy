@@ -2,7 +2,7 @@
 
 An interactive Python application that leverages large language models (LLMs) to serve as an intelligent, dynamic study buddy for home inspection processes and best practices.
 
-##Overview
+## Overview
 
 This project was built to explore core AI engineering concepts, including system prompt engineering, temperature tuning, structured JSON outputs, robust error handling, and secure API key management.
 
@@ -35,6 +35,7 @@ ___
 ## Project Structure
 
 '''text
+
 study-buddy/
 |-- .gitignore              # Ignores .env and virtual environment folders
 
@@ -44,3 +45,4 @@ study-buddy/
 
 
 The Knowledge House - AI Business Solutions Fellowship - Phase 2 Week 7 TLAB: Creating a Study Buddy using LLM
+Author: Nataki Boykin IF 2026 
