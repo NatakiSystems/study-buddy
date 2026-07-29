@@ -47,4 +47,4 @@ study-buddy/
 
 The Knowledge House - AI Business Solutions Fellowship - Phase 2 Week 7 TLAB: Creating a Study Buddy using LLM
 
-Author: Nataki Boykin IF 2026 
+Author: Nataki Boykin, Project Owner & Manager|NatakiSystems
