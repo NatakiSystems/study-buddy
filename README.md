@@ -37,6 +37,7 @@ ___
 '''text
 
 study-buddy/
+
 |-- .gitignore              # Ignores .env and virtual environment folders
 
 |-- study_buddy_starty.py   # Main Python pipeline execution script
@@ -45,4 +46,5 @@ study-buddy/
 
 
 The Knowledge House - AI Business Solutions Fellowship - Phase 2 Week 7 TLAB: Creating a Study Buddy using LLM
+
 Author: Nataki Boykin IF 2026 
